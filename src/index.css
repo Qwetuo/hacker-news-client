@@ -3,3 +3,21 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.details {
+  font-size: smaller;
+  font-weight: normal;
+  color: grey;
+}
+
+li {
+  font-weight: bold;
+  border: solid black 0.5px;
+  padding: 5px;
+  margin: 5px;
+  background-color: #fff6e5
+}
+
+.description {
+  font-weight: normal;
+}
